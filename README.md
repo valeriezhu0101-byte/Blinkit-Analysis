@@ -8,14 +8,14 @@ The Blinkit Analysis project is designed to analyse sales performance, customer 
 ## Key Performance Indicators (KPIs)
 - Total Sales: The overall revenue generated from all items sold.
 - Average Sales: The average revenue per sale.
-- Number of Items: The total count of different items sold.
-- Average Rating: The average customer rating for items sold. 
+- Number of Items Sold: The total count of different items sold.
+- Average Ratings: The average customer rating for items sold. 
 
 ## Analysis & Visualizations
 ### Total Sales by Fat Content
 - Objective: Analyze the impact of fat content on total sales.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-- Chart Type: Donut Chart.
+- Chart Type: Pie Chart.
 
 ### Total Sales by Item Type
 - Objective: Identify the performance of different item types in terms of total sales.
@@ -25,7 +25,7 @@ The Blinkit Analysis project is designed to analyse sales performance, customer 
 ### Fat Content by Outlet for Total Sales
 - Objective: Compare total sales across different outlets segmented by fat content.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-- Chart Type: Stacked Column Chart.
+- Chart Type: Clustered Column Chart.
 
 ### Total Sales by Outlet Establishment:
 - Objective: Evaluate how the age or type of outlet establishment influences total sales.
@@ -33,8 +33,8 @@ The Blinkit Analysis project is designed to analyse sales performance, customer 
 
 ### Sales by Outlet Size:
 - Objective: Analyze the correlation between outlet size and total sales.
-- Chart Type: Donut/ Pie Chart.
+- Chart Type: Pie Chart.
 
 ### Sales by Outlet Location:
 - Objective: Assess the geographic distribution of sales across different locations.
-- Chart Type: Funnel Map.
+- Chart Type: Horizontal Bar Chart.
