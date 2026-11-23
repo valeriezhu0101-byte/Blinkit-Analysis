@@ -6,10 +6,10 @@ The Blinkit Analysis project is designed to analyse sales performance, customer 
 - <a href="https://github.com/valeriezhu0101-byte/Blinkit-Analysis/blob/main/blinkit_data.csv">Blinkit Dataset</a>
 
 ## Key Performance Indicators (KPIs)
-- Total Sales: The overall revenue generated from all items sold.
-- Average Sales: The average revenue per sale.
-- Number of Items Sold: The total count of different items sold.
-- Average Ratings: The average customer rating for items sold. 
+- **Total Sales:** The overall revenue generated from all items sold.
+- **Average Sales:** The average revenue per sale.
+- **Number of Items Sold:** The total count of different items sold.
+- **Average Ratings:** The average customer rating for items sold. 
 
 ## Analysis & Visualizations
 ### Total Sales by Fat Content
