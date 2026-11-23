@@ -3,7 +3,7 @@
 The Blinkit Analysis project is designed to analyse sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Python.
 
 ## Dataset used
-- <a href="https://github.com/valeriezhu0101-byte/Blinkit-Analysis/blob/main/blinkit_data.csv">Dataset</a>
+- <a href="https://github.com/valeriezhu0101-byte/Blinkit-Analysis/blob/main/blinkit_data.csv">Blinkit Dataset</a>
 
 ## Key Performance Indicators (KPIs)
 - Total Sales: The overall revenue generated from all items sold.
@@ -34,6 +34,9 @@ The Blinkit Analysis project is designed to analyse sales performance, customer 
 ### Sales by Outlet Size:
 - Objective: Analyze the correlation between outlet size and total sales.
 - Chart Type: Pie Chart.
+
+## Python Analysis
+Python Code <a href="https://github.com/valeriezhu0101-byte/Pizza-Analysis/blob/main/Pizza%20Sales%20Analysis%20in%20Python.ipynb">View Python Notebook</a>
 
 ### Sales by Outlet Location:
 - Objective: Assess the geographic distribution of sales across different locations.
