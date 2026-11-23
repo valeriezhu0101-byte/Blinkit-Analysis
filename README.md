@@ -9,7 +9,7 @@ The Blinkit Analysis project is designed to analyse sales performance, customer 
 - **Total Sales:** The overall revenue generated from all items sold.
 - **Average Sales:** The average revenue per sale.
 - **Number of Items Sold:** The total count of different items sold.
-- **Average Ratings:** The average customer rating for items sold. 
+- **Average Rating:** The average customer rating for items sold. 
 
 ## Analysis & Visualizations
 ### Total Sales by Fat Content
